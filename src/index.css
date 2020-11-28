@@ -16,3 +16,15 @@ main {
   background-color: blue;
   color: white;
 }
+
+#numberCounter {
+  /*
+    We're adding a new style for anything with the id numberCounter
+    1. A double line border
+    1. An off-white background
+    1. Black text
+  */
+  border-style: double;
+  background-color: whitesmoke;
+  color: black;
+}
